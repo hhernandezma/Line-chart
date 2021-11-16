@@ -12,7 +12,7 @@ La actividad ha sido realizada de manera individual por Hernando Hernández Mari
 
 # Descripción del DataSet 
 El conjunto de datos se localiza en la página web del Banco de la República de Colombia: https://www.banrep.gov.co/es/estadisticas/inflacion-total-y-meta
-De este conjunto de datos se selecciono la variable Inflación total en el periodo de enero a diciembre del año 2020 de Colombia.
+De este conjunto de datos se seleccionó la variable Inflación total en el periodo de enero a diciembre del año 2020 de Colombia.
 
 # Visualización del Data Set
 
