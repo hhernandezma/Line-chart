@@ -2,6 +2,10 @@
 
 # Line chart
 
+El grafico de línea se recomienda ser utilizado para representar series de datos y así observar tendencias en el tiempo, ya sean en años, meses, días, horas, etc. De ahí que sean muy utilizados en las áreas de economía, finanzas o administración en general.
+
+Se recomienda que las variables sean numéricas ya sean discretas o continuas. La principal limitación de los gráficos de línea es que no son adecuados para representar muchas series de datos, pues generan confusión y dificulta la comprensión.
+
 # Descripción 
 
 Ejercicio realizado como PEC2 de la asignatura M2.859 - Visualización de datos aula 1 dentro del Master de Ciencia de Datos de la Universitat Oberta de Catalunya.
